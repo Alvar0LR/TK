@@ -43,10 +43,7 @@ def Traducir_Texto_Español(D, T):
         traducción += f"{Trad} "
     return traducción
                 
-            
 
-
-    return traducción
 
 MiDic = dict()
 print("0.- Salir")
