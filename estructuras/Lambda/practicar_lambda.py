@@ -9,7 +9,7 @@ print(x1(5))
 x2=lambda x, y: max(x,y)
 x22=lambda x, y: x if x > y else y
 print(x2(5,6))
-print(x2(5,6))
+print(x22(5,6))
 
 #Dado un número, comprueba si es impar.
 
